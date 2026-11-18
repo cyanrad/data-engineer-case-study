@@ -1,0 +1,10 @@
+product_id,name,brand,category,price,stock,attribute,currency,updated_at
+P001,Black leather handbag,Brand A,Bags,450.0,8,Black,AED,2026-01-10 00:00:00.000000 UTC
+P002,Black mini handbag,Brand B,Bags,320.0,4,Black,AED,2026-01-10 00:00:00.000000 UTC
+P003,Amber eau de parfum,Tom Ford,Fragrance,480.0,10,Amber,AED,2026-01-10 00:00:00.000000 UTC
+P004,Rose eau de parfum,Brand C,Fragrance,290.0,6,Rose,AED,2026-01-10 00:00:00.000000 UTC
+P005,Leather tote,Brand A,Bags,650.0,0,Brown,AED,2026-01-10 00:00:00.000000 UTC
+P006,Citrus perfume,Brand D,Fragrance,180.0,12,Citrus,AED,2026-01-10 00:00:00.000000 UTC
+P007,Silk scarf,Brand E,Accessories,150.0,9,Blue,AED,2026-01-10 00:00:00.000000 UTC
+P008,Black shoulder bag,Brand B,Bags,350.0,0,Black,AED,2026-01-11 00:00:00.000000 UTC
+P009,Black crossbody bag,Brand E,Bags,280.0,6,Black,AED,2026-01-11 00:00:00.000000 UTC

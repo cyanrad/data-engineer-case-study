@@ -1,0 +1,10 @@
+product_id,name,brand,category,price,currency,stock,attribute,availability,search_text,view_count,purchased_quantity,updated_at
+P007,Silk scarf,Brand E,Accessories,150.0,AED,9,Blue,in_stock,silk scarf brand e accessories blue,0,2,2026-01-10 00:00:00.000000 UTC
+P001,Black leather handbag,Brand A,Bags,450.0,AED,8,Black,in_stock,black leather handbag brand a bags black,2,1,2026-01-10 00:00:00.000000 UTC
+P005,Leather tote,Brand A,Bags,650.0,AED,0,Brown,out_of_stock,leather tote brand a bags brown,0,0,2026-01-10 00:00:00.000000 UTC
+P006,Citrus perfume,Brand D,Fragrance,180.0,AED,12,Citrus,in_stock,citrus perfume brand d fragrance citrus,1,0,2026-01-10 00:00:00.000000 UTC
+P004,Rose eau de parfum,Brand C,Fragrance,290.0,AED,6,Rose,in_stock,rose eau de parfum brand c fragrance rose,1,0,2026-01-10 00:00:00.000000 UTC
+P003,Amber eau de parfum,Tom Ford,Fragrance,480.0,AED,10,Amber,in_stock,amber eau de parfum tom ford fragrance amber,1,0,2026-01-10 00:00:00.000000 UTC
+P002,Black mini handbag,Brand B,Bags,320.0,AED,4,Black,in_stock,black mini handbag brand b bags black,1,1,2026-01-10 00:00:00.000000 UTC
+P008,Black shoulder bag,Brand B,Bags,350.0,AED,0,Black,out_of_stock,black shoulder bag brand b bags black,1,0,2026-01-11 00:00:00.000000 UTC
+P009,Black crossbody bag,Brand E,Bags,280.0,AED,6,Black,in_stock,black crossbody bag brand e bags black,0,0,2026-01-11 00:00:00.000000 UTC

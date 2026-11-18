@@ -1,0 +1,99 @@
+event_id,date_event,event_name,user_id,ga_session_id,page_url,market,item_count,items,time_event_local
+E01,2026-01-10,view_item,U1,1,https://example.invalid/shop,AE,1,"{
+  ""items"": [{
+    ""item_id"": ""P001"",
+    ""quantity"": ""1"",
+    ""price"": ""450.0""
+  }]
+}",2026-01-10T04:01:00
+E06,2026-01-10,view_item,U2,1,https://example.invalid/shop,AE,1,"{
+  ""items"": [{
+    ""item_id"": ""P004"",
+    ""quantity"": ""1"",
+    ""price"": ""290.0""
+  }]
+}",2026-01-10T04:06:00
+E09,2026-01-10,purchase,U3,1,https://example.invalid/shop,AE,1,"{
+  ""items"": [{
+    ""item_id"": ""P002"",
+    ""quantity"": ""1"",
+    ""price"": ""320.0""
+  }]
+}",2026-01-10T04:09:00
+E13,2026-01-10,view_item,U4,1,https://example.invalid/shop,AE,1,"{
+  ""items"": [{
+    ""item_id"": ""P001"",
+    ""quantity"": ""1"",
+    ""price"": ""450.0""
+  }]
+}",2026-01-10T04:13:00
+E05,2026-01-10,add_to_cart,U2,1,https://example.invalid/shop,AE,1,"{
+  ""items"": [{
+    ""item_id"": ""P003"",
+    ""quantity"": ""1"",
+    ""price"": ""480.0""
+  }]
+}",2026-01-10T04:05:00
+E02,2026-01-10,add_to_cart,U1,1,https://example.invalid/shop,AE,1,"{
+  ""items"": [{
+    ""item_id"": ""P001"",
+    ""quantity"": ""1"",
+    ""price"": ""450.0""
+  }]
+}",2026-01-10T04:02:00
+E08,2026-01-10,add_to_cart,U3,1,https://example.invalid/shop,AE,1,"{
+  ""items"": [{
+    ""item_id"": ""P002"",
+    ""quantity"": ""1"",
+    ""price"": ""320.0""
+  }]
+}",2026-01-10T04:08:00
+E07,2026-01-10,view_item,U3,1,https://example.invalid/shop,AE,1,"{
+  ""items"": [{
+    ""item_id"": ""P002"",
+    ""quantity"": ""1"",
+    ""price"": ""320.0""
+  }]
+}",2026-01-10T04:07:00
+E11,2026-01-10,view_item,anon,1,https://example.invalid/shop,AE,1,"{
+  ""items"": [{
+    ""item_id"": ""P006"",
+    ""quantity"": ""1"",
+    ""price"": ""180.0""
+  }]
+}",2026-01-10T04:11:00
+E12,2026-01-10,search,U4,1,https://example.invalid/shop,AE,0,"{
+  ""items"": []
+}",2026-01-10T04:12:00
+E04,2026-01-10,view_item,U2,1,https://example.invalid/shop,AE,1,"{
+  ""items"": [{
+    ""item_id"": ""P003"",
+    ""quantity"": ""1"",
+    ""price"": ""480.0""
+  }]
+}",2026-01-10T04:04:00
+E14,2026-01-10,add_to_cart,U4,1,https://example.invalid/shop,AE,1,"{
+  ""items"": [{
+    ""item_id"": ""P008"",
+    ""quantity"": ""1"",
+    ""price"": ""390.0""
+  }]
+}",2026-01-10T04:14:00
+E10,2026-01-10,view_item,U1,1,https://example.invalid/shop,AE,1,"{
+  ""items"": [{
+    ""item_id"": ""P008"",
+    ""quantity"": ""1"",
+    ""price"": ""390.0""
+  }]
+}",2026-01-10T04:10:00
+E03,2026-01-10,purchase,U1,1,https://example.invalid/shop,AE,2,"{
+  ""items"": [{
+    ""item_id"": ""P001"",
+    ""quantity"": ""1"",
+    ""price"": ""450.0""
+  }, {
+    ""item_id"": ""P007"",
+    ""quantity"": ""2"",
+    ""price"": ""150.0""
+  }]
+}",2026-01-10T04:03:00

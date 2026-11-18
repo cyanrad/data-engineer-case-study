@@ -1,0 +1,15 @@
+
+== U1 ==
+P009    35.0  Black crossbody bag    matches your history: category Bags, brand Brand E, colour Black
+P002    31.3  Black mini handbag     matches your history: category Bags, brand Brand B, colour Black
+P003     0.1  Amber eau de parfum    no history match, ranked by popularity
+
+== U2 ==
+P003    18.1  Amber eau de parfum    matches your history: category Fragrance, brand Tom Ford, colour Amber
+P004    12.1  Rose eau de parfum     matches your history: category Fragrance, brand Brand C, colour Rose
+P006    10.1  Citrus perfume         matches your history: category Fragrance
+
+== NEW_USER ==
+P001     0.4  Black leather handbag  cold start: popular item (views: 2, purchased: 1)
+P007     0.4  Silk scarf             cold start: popular item (views: 0, purchased: 2)
+P002     0.3  Black mini handbag     cold start: popular item (views: 1, purchased: 1)

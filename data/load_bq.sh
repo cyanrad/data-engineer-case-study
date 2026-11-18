@@ -1,0 +1,5 @@
+bq --location=US mk --dataset PROJECT:retail_case
+bq --location=US load --source_format=NEWLINE_DELIMITED_JSON PROJECT:retail_case.events_daily events_daily.jsonl ga4_schema.json
+bq --location=US load --source_format=NEWLINE_DELIMITED_JSON PROJECT:retail_case.events_intraday events_intraday.jsonl ga4_schema.json
+bq --location=US load --source_format=CSV --skip_leading_rows=1 PROJECT:retail_case.products_raw products.csv product_id:STRING,name:STRING,brand:STRING,category:STRING,price:FLOAT,stock:INTEGER,attribute:STRING,currency:STRING,updated_at:TIMESTAMP
+bq --location=US load --source_format=CSV --skip_leading_rows=1 PROJECT:retail_case.products_inc product_updates.csv product_id:STRING,name:STRING,brand:STRING,category:STRING,price:FLOAT,stock:INTEGER,attribute:STRING,currency:STRING,updated_at:TIMESTAMP

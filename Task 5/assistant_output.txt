@@ -1,0 +1,31 @@
+
+> black handbag under AED 400
+  filters: category Bags, colour Black, price < AED 400
+  Found 2 in-stock products for category Bags, colour Black, price < AED 400.
+    P009  Black crossbody bag      AED 280   Brand E, stock 6
+    P002  Black mini handbag       AED 320   Brand B, stock 4
+  hidden, out of stock: P008 Black shoulder bag (AED 350)
+
+> Tom Ford fragrance under AED 500
+  filters: category Fragrance, brand Tom Ford, price < AED 500
+  Found 1 in-stock product for category Fragrance, brand Tom Ford, price < AED 500.
+    P003  Amber eau de parfum      AED 480   Tom Ford, stock 10
+
+> black handbag under AED 100
+  filters: category Bags, colour Black, price < AED 100
+  No in-stock products match category Bags, colour Black, price < AED 100.
+
+> leather bag
+  filters: category Bags, matching 'leather'
+  Found 1 in-stock product for category Bags, matching 'leather'.
+    P001  Black leather handbag    AED 450   Brand A, stock 8
+  hidden, out of stock: P005 Leather tote (AED 650)
+
+> perfume between AED 200 and 300
+  filters: category Fragrance, price >= AED 200, price <= AED 300
+  Found 1 in-stock product for category Fragrance, price >= AED 200, price <= AED 300.
+    P004  Rose eau de parfum       AED 290   Brand C, stock 6
+
+> red handbag
+  filters: category Bags, colour Red
+  No in-stock products match category Bags, colour Red.

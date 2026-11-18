@@ -1,0 +1,15 @@
+event_id,date_event,event_name,item_id,item_offset,item_quantity,item_price,user_id,ga_session_id,page_url,market,time_event_local
+E01,2026-01-10,view_item,P001,0,1,450.0,U1,1,https://example.invalid/shop,AE,2026-01-10T04:01:00
+E02,2026-01-10,add_to_cart,P001,0,1,450.0,U1,1,https://example.invalid/shop,AE,2026-01-10T04:02:00
+E03,2026-01-10,purchase,P001,0,1,450.0,U1,1,https://example.invalid/shop,AE,2026-01-10T04:03:00
+E03,2026-01-10,purchase,P007,1,2,150.0,U1,1,https://example.invalid/shop,AE,2026-01-10T04:03:00
+E04,2026-01-10,view_item,P003,0,1,480.0,U2,1,https://example.invalid/shop,AE,2026-01-10T04:04:00
+E05,2026-01-10,add_to_cart,P003,0,1,480.0,U2,1,https://example.invalid/shop,AE,2026-01-10T04:05:00
+E06,2026-01-10,view_item,P004,0,1,290.0,U2,1,https://example.invalid/shop,AE,2026-01-10T04:06:00
+E07,2026-01-10,view_item,P002,0,1,320.0,U3,1,https://example.invalid/shop,AE,2026-01-10T04:07:00
+E08,2026-01-10,add_to_cart,P002,0,1,320.0,U3,1,https://example.invalid/shop,AE,2026-01-10T04:08:00
+E09,2026-01-10,purchase,P002,0,1,320.0,U3,1,https://example.invalid/shop,AE,2026-01-10T04:09:00
+E10,2026-01-10,view_item,P008,0,1,390.0,U1,1,https://example.invalid/shop,AE,2026-01-10T04:10:00
+E11,2026-01-10,view_item,P006,0,1,180.0,anon,1,https://example.invalid/shop,AE,2026-01-10T04:11:00
+E13,2026-01-10,view_item,P001,0,1,450.0,U4,1,https://example.invalid/shop,AE,2026-01-10T04:13:00
+E14,2026-01-10,add_to_cart,P008,0,1,390.0,U4,1,https://example.invalid/shop,AE,2026-01-10T04:14:00

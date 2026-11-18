@@ -1,0 +1,4 @@
+product_id,name,brand,category,price,stock,attribute,currency,updated_at
+P008,Black shoulder bag,Brand B,Bags,350,0,Black,AED,2026-01-11T00:00:00Z
+P009,Black crossbody bag,Brand E,Bags,280,6,Black,AED,2026-01-11T00:00:00Z
+P001,Black leather handbag,Brand A,Bags,-10,8,Black,AED,2026-01-11T00:00:00Z

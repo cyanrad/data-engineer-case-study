@@ -1,0 +1,101 @@
+[
+  {
+    "name": "event_id",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "event_date",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "event_timestamp",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "event_name",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "user_pseudo_id",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "user_id",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "event_params",
+    "type": "RECORD",
+    "mode": "REPEATED",
+    "fields": [
+      {
+        "name": "key",
+        "type": "STRING"
+      },
+      {
+        "name": "value",
+        "type": "RECORD",
+        "fields": [
+          {
+            "name": "string_value",
+            "type": "STRING"
+          },
+          {
+            "name": "int_value",
+            "type": "INTEGER"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "user_properties",
+    "type": "RECORD",
+    "mode": "REPEATED",
+    "fields": [
+      {
+        "name": "key",
+        "type": "STRING"
+      },
+      {
+        "name": "value",
+        "type": "RECORD",
+        "fields": [
+          {
+            "name": "string_value",
+            "type": "STRING"
+          },
+          {
+            "name": "int_value",
+            "type": "INTEGER"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "items",
+    "type": "RECORD",
+    "mode": "REPEATED",
+    "fields": [
+      {
+        "name": "item_id",
+        "type": "STRING"
+      },
+      {
+        "name": "quantity",
+        "type": "INTEGER"
+      },
+      {
+        "name": "price",
+        "type": "FLOAT"
+      }
+    ]
+  }
+]
